@@ -1,6 +1,6 @@
 Clone the project.
 
-Go to the folder and open a command line prompt.
+Open a command line prompt and navigate to the project folder.
 
 Enter "yarn install".
 
